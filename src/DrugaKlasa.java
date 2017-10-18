@@ -15,14 +15,7 @@ public class DrugaKlasa {
     public void setX(int x) {
         this.x = x;
     }
-
-    public double getU() {
-        return u;
-    }
-
-    public void setU(double u) {
-        this.u = u;
-    }
+    
 
     String jajko;
 }
