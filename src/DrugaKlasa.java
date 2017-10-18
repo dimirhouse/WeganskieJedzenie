@@ -23,4 +23,6 @@ public class DrugaKlasa {
     public void setU(double u) {
         this.u = u;
     }
+
+    String jajko;
 }
